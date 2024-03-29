@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T17:54:37.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_5DC_igTJHl2PMDE51KY" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T17:57:12.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="z6hz9f7rja6n4oksBzNM" version="24.2.1" type="github">
   <diagram name="Page-1" id="tn3OO6Q_hTxbhWY94wWQ">
     <mxGraphModel dx="2800" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cTJ_kjLz4T1xrLPyeFBe-83" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-944.16" y="450" width="774.16" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="cTJ_kjLz4T1xrLPyeFBe-81" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="-241.37" width="1340" height="670" as="geometry" />
-        </mxCell>
         <mxCell id="8oYRrfSQbkXT5_Vhazys-37" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" parent="1" vertex="1">
           <mxGeometry x="-1420" y="194" width="50" height="36" as="geometry" />
         </mxCell>
@@ -314,6 +308,9 @@
         </mxCell>
         <mxCell id="cTJ_kjLz4T1xrLPyeFBe-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.18;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8oYRrfSQbkXT5_Vhazys-96" target="8oYRrfSQbkXT5_Vhazys-96">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cTJ_kjLz4T1xrLPyeFBe-84" value="Central Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1285" y="-207.37" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
